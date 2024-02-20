@@ -19,6 +19,6 @@ Currently, two official plugins are available:
   -title and description
   -Movie suggestions
   -movielists
-  -Nteflix GPT
+  -Netflix GPT
   -search bar
   -movie suggestions
